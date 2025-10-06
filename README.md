@@ -28,7 +28,7 @@ It provides insights into total sales, outlet performance, and product category 
 ## 📂 Files Included
 - `blinkit_grocery_data.csv` – Dataset  
 - `blinkit_dashboard.png` – Dashboard Screenshot  
-- images
+
 
 ## 🏁 Conclusion
 Medium-sized outlets in Tier 3 cities drive the highest sales.  
